@@ -1,4 +1,5 @@
 /**
+ * // Data Schema: Room instance fields and bounds checked by Teekam Das (67716)
  * Represents a single hotel room.
  * Encapsulates room attributes and enforces booking state rules so that
  * a room can never be marked as booked twice (illegal state prevention).
